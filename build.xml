@@ -5,9 +5,9 @@
     <!-- =================================================================== -->
 
     <!-- 源代码src路径 -->
-    <property name="src.path" value="src/main/java/com/example/springbootdemo/util"/>
+    <property name="src.path" value="main/java/com/example/springbootdemo/util"/>
     <!-- 单元测试代码路径 -->
-    <property name="test.path" value="src/main/test/com/example/springbootdemo/util"/>
+    <property name="test.path" value="main/test/com/example/springbootdemo/util"/>
     <!-- 编译文件class路径 -->
     <property name="build.path" value="build"/>
     <!-- jar包路径 -->
